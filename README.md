@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm AngelJaquez 👋
 
-<!--
-**AngelJaquez/AngelJaquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Portada](https://github.com/user-attachments/assets/42458c1e-90a9-4bc9-b253-40490e3e71c4)
 
-Here are some ideas to get you started:
+Always seeking new ways to create and innovate with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Systems engineering student💻
+
+## 🚀 Technologies and Tools
+- Languages: Python, JavaScript, HTML, CSS
+- Frameworks: React, Django
+- Tools: Git, Docker
+
+## 🌱 Currently Learning
+- Mobile app development with React Native
+- CI/CD implementation with GitHub Actions
