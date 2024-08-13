@@ -1,6 +1,6 @@
 ## Hi I'm AngelJaquez 👋
 
-![Portada](https://github.com/user-attachments/assets/42458c1e-90a9-4bc9-b253-40490e3e71c4)
+![Portada](https://github.com/user-attachments/assets/dd573c0c-ae51-42bf-a65f-c38071debafd)
 
 Always seeking new ways to create and innovate with code.
 
